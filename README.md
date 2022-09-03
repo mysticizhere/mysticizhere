@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhanu Pratap</h1>
 <h3 align="center">A passionate gameDev from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mysticizhere&label=Profile%20views&color=0e75b6&style=flat" alt="mysticizhere" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mysticizhere" alt="mysticizhere" /></a> </p>
 
 - 🌱 I’m currently learning **UE 5, ML and different python libraries**
 
