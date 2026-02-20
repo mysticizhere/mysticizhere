@@ -38,5 +38,3 @@ Backend & AI Enthusiast with a Game Development Background from India
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mysticizhere&show_icons=true&locale=en&layout=compact" alt="mysticizhere" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mysticizhere&show_icons=true&locale=en" alt="mysticizhere" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mysticizhere&" alt="mysticizhere" /></p>
